@@ -1,0 +1,8 @@
+title: Joost den Hartog
+description: Personal blog
+url: "https://joostdenhartog.github.io"
+theme: minima
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
