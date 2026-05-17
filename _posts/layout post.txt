@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Hello World"
-date: 2026-05-17
+date: 2026-05-18
 ---
 
-Check it out
+Monday mornings are fun
+
 
